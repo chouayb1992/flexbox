@@ -1,0 +1,206 @@
+body {
+    /* width: 100vw; */
+    /* background-color: black; */
+    margin: 0;
+}
+
+
+
+
+.link {
+    margin-top: 25px;
+    margin-left: 280px;
+}
+
+
+nav img {
+    width: 220px;
+    height: 40px;
+    margin: 10px 150px;
+}
+
+
+nav {
+    display: flex;
+}
+
+nav a {
+    justify-content: flex-end;
+    font-size: 20px;
+    color: gray;
+    margin: 25px 10px;
+    text-decoration: none;
+}
+
+
+.logo {
+    display: flex;
+   justify-content: center;
+}
+
+.logo img {
+    margin-top: 80px;
+    width: 50px;
+    height: 50px;
+}
+
+.title1 {
+    color: #00b39b;
+    font-size: 3.29rem;
+    font-family: Work Sans, Arial, sans-serif;
+    font-weight: 300;
+    letter-spacing: -0.3px;
+    padding-top: 20px;
+    text-align: center;
+}
+
+.paragraph {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 1000px;
+    margin: auto;
+}
+
+.paragraph p {
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    color: #747474;
+    font-size: 16px;
+    text-align: left;
+    margin: 30px;
+}
+
+.profession {
+    display: flex;
+    justify-content: center;
+    justify-content: space-between;
+    width: 900px;
+    margin: 30px auto;
+}
+
+.profession p {
+    color: white;
+    font-size: 25px;
+    text-align: left;
+    margin: 30px;
+}
+
+.patient {
+    background-color: #34ebc9;
+    width: 300px;
+    border-radius: 25px;
+}
+
+.doctor {
+    background-color: #3452eb;
+    width: 250px;
+    border-radius: 25px;
+}
+
+.clinic {
+    background-color: #20222e;
+    width: 300px;
+    border-radius: 25px;
+}
+
+.title2 {
+    color: #38f2b7;
+    text-align: center;
+    font-size: 35px;
+    margin: 50px;
+}
+
+.text {
+    color: gray;
+    text-align: center;
+    font-size: 20px;
+    width: 600px;
+    margin: auto;
+}
+
+.city {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    width: 80%;
+    margin: 50px auto;
+
+}
+
+.city img {
+    /* width: 300px; */
+    height: 300px;
+}
+
+h1 {
+    text-align: center;
+    font-size: 35px;
+}
+
+.button {
+    display: flex;
+    justify-content: center;
+}
+
+button {
+    width: 250px;
+    height: 40px;
+    color: white;
+    background-color: #3452eb;
+    margin: 10px;
+    outline: none;
+}
+
+footer {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    margin-top: 50px;
+}
+
+span {
+    font-size: 20px;
+}
+
+footer a {
+    text-decoration: none;
+    font-size: 20px;
+}
+
+.ln1 {
+    margin: 20px auto;
+}
+
+i {
+    color: white;
+    font-size: 50px !important;
+    margin: 20px 25px;
+}
+
+label {
+    color: white;
+    font-size: 22px;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.btn {
+    width: 150px;
+    height: 30px;
+}
+
+.box {
+    margin: 100px 0;
+    background-color: #d0faf4;;
+    width: 100%;
+    min-height: 600px;
+    display: flex;
+
+}
+
+.block1 {
+    color: #00b39b;
+    font-weight: 300;
+    letter-spacing: -0.3px;
+}
